@@ -1064,6 +1064,7 @@ cat > palindrome.sh
 #num=545
 echo "Enter the number"
 read num
+
 s=0
 rev=""
 temp=$num
